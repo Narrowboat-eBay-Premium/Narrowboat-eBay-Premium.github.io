@@ -1174,64 +1174,6 @@ section.lazy-placeholder:after {
 .cid-rkTA689g24 .mbr-section-title {
   color: #232323;
 }
-.cid-rq8Y3zocqH {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #d9c6bd;
-}
-.cid-rq8Y3zocqH .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rq8Y3zocqH .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-rq8Y3zocqH .mbr-text {
-  color: #232323;
-}
-.cid-rq8Y3zocqH .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-rq8Y3zocqH .mbr-author-name {
-  color: #767676;
-}
-.cid-rq8Y3zocqH .mbr-testimonial .panel-item {
-  background-color: #d9c6bd;
-}
-.cid-rq8Y3zocqH .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-rq8Y3zocqH .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rq8Y3zocqH .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rq8Y3zocqH .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-rq8Y3zocqH .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
 .cid-rRDQHvJtkA {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1265,6 +1207,10 @@ section.lazy-placeholder:after {
   .cid-rRDQHvJtkA .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-rRDQHvJtkA .mbr-text,
+.cid-rRDQHvJtkA .mbr-section-btn {
+  color: #232323;
 }
 .cid-rRDRcDUo7T {
   padding-top: 0px;
@@ -1335,8 +1281,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rRDRd7Vh6J {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #d9c6bd;
 }
 .cid-rRDRd7Vh6J h4 {
@@ -1369,8 +1315,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rRDRdh2qI6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #d9c6bd;
 }
 .cid-rRDRdh2qI6 h4 {
